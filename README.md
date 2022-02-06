@@ -11,7 +11,7 @@ install Python 3.8.10
  
 Setup for Windows :  
 install Python 3.8.10   
-``it clone https://github.com/ArthurMynl/video-playing-and-face-detection.git video-playing-and-face-detection/``   
+``git clone https://github.com/ArthurMynl/video-playing-and-face-detection.git video-playing-and-face-detection/``   
 ``cd video-playing-and-face-detection/``   
 ``pip install -r requirements.txt``    
 
